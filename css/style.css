@@ -53,3 +53,7 @@ section#top span#name {
 section#top .caption {
   font-size: 90%;
 }
+
+.highlight {
+  background-color: yellow;
+}
