@@ -12,14 +12,44 @@ header {
   background-color: #4EA1FF;
   background-image: url(/img/pattern.png);
   background-size: 30%;
+  padding-left: 800px;
 
 }
 
 .container {
-  max-width: 1100px;
+  max-width: 1250px;
   margin: 0 auto;
 }
 
 * {
+
   margin: 0;
+}
+
+main {
+  margin-left: 800px;
+  margin-right: 800px;
+}
+
+p,
+section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+h1 {
+  font-size: 45px;
+}
+
+section#top .remark {
+  color: #878787;
+}
+
+section#top span#name {
+  color: aqua;
+}
+
+section#top .caption {
+  font-size: 90%;
 }
